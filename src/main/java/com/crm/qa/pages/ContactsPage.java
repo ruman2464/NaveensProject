@@ -55,7 +55,9 @@ public class ContactsPage extends TestBase {
 		
 	}
 	
-	
+	public void github() {
+		
+	}
 	
 
 }
