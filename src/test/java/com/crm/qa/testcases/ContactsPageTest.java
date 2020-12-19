@@ -33,6 +33,7 @@ public class ContactsPageTest extends TestBase{
 	ContactsPage contactsPage;
 	
 	String sheetName = "contacts";
+	String sheetName1 = "contacts";
 	
 	   
 	public ContactsPageTest(){
